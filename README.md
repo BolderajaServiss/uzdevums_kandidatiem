@@ -34,7 +34,7 @@ Tev tiek dots **SQLite datubāzes fails**: `attendance.db`
 
 ## 📌 Uzdevums
 
-Izveidot **WEB aplikāciju** (vēlams izmantot Python), kas:
+Izveidot **WEB aplikāciju** (vēlams izmantot Python):
 
 ### 📍 Sākuma lapa `/`
 - Parāda sarakstu ar visiem darbinieku `username`
